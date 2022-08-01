@@ -1,0 +1,4 @@
+<html><head><script>
+        window.location.replace("https://domain.com");
+    </script>
+</head><body></body></html>
